@@ -2,8 +2,8 @@ Spring Boot Curriculum
 
  
 
-Console application
-Basic rest API 
+- Console application
+- Basic rest API 
 Getting and setting headers
 Serving static content
 Logging in springboot 
