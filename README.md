@@ -5,7 +5,7 @@ Spring Boot Curriculum
 - Console application -done
 - Basic rest API - done
 - Getting and setting headers - done (merged with previous)
-- Serving static content
+- Serving static content - done , ResourceResolvers will be done later if required
 - Logging in springboot 
 - File upload and download
 - Audio/video upload and download
