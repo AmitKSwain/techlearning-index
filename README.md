@@ -2,9 +2,9 @@ Spring Boot Curriculum
 
  
 
-- Console application
-- Basic rest API 
-- Getting and setting headers
+- Console application -done
+- Basic rest API - done
+- Getting and setting headers - done (merged with previous)
 - Serving static content
 - Logging in springboot 
 - File upload and download
